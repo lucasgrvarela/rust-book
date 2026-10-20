@@ -20,7 +20,8 @@
 >   chapter 1.3 quiz (#340), a "recall" of text this edition no longer has in chapter 4.4
 >   (#364), and a note in chapter 8.1 written for an earlier Listing 8-7 (#310);
 > - this notice, the notice on the "What's Different About This Book?" page, and the
->   repository link in `book.toml`.
+>   repository link in `book.toml`, and no `cname` in the deploy step, so this copy
+>   publishes to its own GitHub Pages address instead of the Brown domain.
 >
 > All copyright, credits and licenses are unchanged: the work remains under the Apache
 > License 2.0 or the MIT License, at your option (see `COPYRIGHT`, `LICENSE-APACHE` and
