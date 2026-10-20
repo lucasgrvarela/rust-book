@@ -16,6 +16,9 @@
 > - merged `rust-lang/book` `main` (Rust 1.98, `rand` 0.10.1);
 > - three community fixes from open pull requests on the Brown repository (#397, #403,
 >   #404), kept with their original authors;
+> - fixes for three open issues on the Brown repository: the cargo-watch tip in the
+>   chapter 1.3 quiz (#340), a "recall" of text this edition no longer has in chapter 4.4
+>   (#364), and a note in chapter 8.1 written for an earlier Listing 8-7 (#310);
 > - this notice, the notice on the "What's Different About This Book?" page, and the
 >   repository link in `book.toml`.
 >
