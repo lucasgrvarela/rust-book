@@ -170,7 +170,7 @@ to use a `for` loop to get immutable references to each element in a vector of
 
 </Listing>
 
-To read the number that `i` refers to, we have to use the `*` dereference operator to get to the value in `i` before we can add 1 to it, as covered in ["Dereferencing a Pointer Accesses Its Data"][deref].
+Here `i` has type `&i32`, a reference to each element. `println!` can print the value through the reference, but to compute with the number that `i` refers to, such as adding 1 to it with `*i + 1`, we have to use the `*` dereference operator to get to the value in `i`, as covered in ["Dereferencing a Pointer Accesses Its Data"][deref].
 
 We can also iterate over mutable references to each element in a mutable vector
 in order to make changes to all the elements. The `for` loop in Listing 8-8
