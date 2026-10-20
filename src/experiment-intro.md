@@ -4,8 +4,11 @@
 > the official book's latest updates on top of the
 > [Brown University edition](https://rust-book.cs.brown.edu/). It is not affiliated with
 > or endorsed by Brown University or the Rust Project. All credit belongs to the authors
-> below; the original is at <https://rust-book.cs.brown.edu/>. Report problems with this
-> copy at <https://github.com/lucasgrvarela/rust-book/issues>.
+> below; the original is at <https://rust-book.cs.brown.edu/>. If a problem also appears
+> there, report it to the
+> [Brown repository](https://github.com/cognitive-engineering-lab/rust-book/issues); if it
+> appears only in this copy, report it at
+> <https://github.com/lucasgrvarela/rust-book/issues>.
 
 <div style="display: flex; gap: 2em"> 
 

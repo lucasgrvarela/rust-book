@@ -22,14 +22,22 @@
 > - this notice, the notice on the "What's Different About This Book?" page, and the
 >   repository link in `book.toml`.
 >
-> All copyright, credits and licences are unchanged: the work remains under the Apache
-> License 2.0 or the MIT licence, at your option (see `COPYRIGHT`, `LICENSE-APACHE` and
-> `LICENSE-MIT`). Report problems with this copy here, not to the Brown or Rust
-> repositories.
+> All copyright, credits and licenses are unchanged: the work remains under the Apache
+> License 2.0 or the MIT License, at your option (see `COPYRIGHT`, `LICENSE-APACHE` and
+> `LICENSE-MIT`).
+>
+> **Where to report a problem:** if it also appears at <https://rust-book.cs.brown.edu/>,
+> report it to the [Brown repository](https://github.com/cognitive-engineering-lab/rust-book/issues);
+> if it also appears in the [official book](https://doc.rust-lang.org/book/), report it to
+> [rust-lang/book](https://github.com/rust-lang/book/issues); only if it appears in this
+> copy alone, report it [here](https://github.com/lucasgrvarela/rust-book/issues).
+>
+> Everything below this notice is the Brown edition's README, unchanged except for the
+> line about where to report issues; "we" there means the book's authors.
 
 This repository contains the source of "The Rust Programming Language" book, specifically an experimental branch that supports interactive features like quizzes.
 
-**If you discovered an issue in at <https://rust-book.cs.brown.edu/>, PLEASE report the issue on THIS REPOSITORY and not elsewhere.**
+**If you discovered an issue in at <https://rust-book.cs.brown.edu/>, PLEASE report the issue on [the Brown repository](https://github.com/cognitive-engineering-lab/rust-book/issues) and not elsewhere.**
 
 [The book is available in dead-tree form from No Starch Press][nostarch].
 
