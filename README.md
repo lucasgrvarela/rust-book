@@ -2,6 +2,28 @@
 
 ![Build Status](https://github.com/rust-lang/book/workflows/CI/badge.svg)
 
+> **Unofficial fork.** This is a personal, unofficial copy of the
+> [interactive edition](https://github.com/cognitive-engineering-lab/rust-book) by the
+> Cognitive Engineering Lab at Brown University, which is itself a fork of
+> [The Rust Programming Language](https://github.com/rust-lang/book) by Steve Klabnik,
+> Carol Nichols, Chris Krycho and the Rust community. It is not affiliated with or endorsed
+> by Brown University, the Cognitive Engineering Lab, the Rust Project or No Starch Press.
+> It exists only to carry the Brown edition forward with the official book's latest
+> commits while the Brown edition catches up, and it will be retired when it does.
+>
+> **Changes in this fork**, on top of the Brown edition:
+>
+> - merged `rust-lang/book` `main` (Rust 1.98, `rand` 0.10.1);
+> - three community fixes from open pull requests on the Brown repository (#397, #403,
+>   #404), kept with their original authors;
+> - this notice, the notice on the "What's Different About This Book?" page, and the
+>   repository link in `book.toml`.
+>
+> All copyright, credits and licences are unchanged: the work remains under the Apache
+> License 2.0 or the MIT licence, at your option (see `COPYRIGHT`, `LICENSE-APACHE` and
+> `LICENSE-MIT`). Report problems with this copy here, not to the Brown or Rust
+> repositories.
+
 This repository contains the source of "The Rust Programming Language" book, specifically an experimental branch that supports interactive features like quizzes.
 
 **If you discovered an issue in at <https://rust-book.cs.brown.edu/>, PLEASE report the issue on THIS REPOSITORY and not elsewhere.**

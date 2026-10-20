@@ -1,5 +1,12 @@
 # What's Different About This Book?
 
+> **Unofficial copy.** You are reading a personal, unofficial copy of this book that adds
+> the official book's latest updates on top of the
+> [Brown University edition](https://rust-book.cs.brown.edu/). It is not affiliated with
+> or endorsed by Brown University or the Rust Project. All credit belongs to the authors
+> below; the original is at <https://rust-book.cs.brown.edu/>. Report problems with this
+> copy at <https://github.com/lucasgrvarela/rust-book/issues>.
+
 <div style="display: flex; gap: 2em"> 
 
 This book is an experimental fork of [*The Rust Programming Language*](http://doc.rust-lang.org/book/) created by researchers at the <a href="https://cel.cs.brown.edu/">Cognitive Engineering Lab</a> at Brown University. If you're curious, this page explains what makes this book different from the original TRPL book. But if you just want to get started learning Rust, then feel free to skip this page and come back later.
