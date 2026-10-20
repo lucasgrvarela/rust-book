@@ -286,8 +286,9 @@ but it has also eliminated an entire class of errors at compile time!
 
 #### String Literals Are Slices
 
-Recall that we talked about string literals being stored inside the binary. Now
-that we know about slices, we can properly understand string literals:
+We know the contents of a string literal at compile time, so its text is
+hardcoded directly into the final executable, the binary. Now that we know about
+slices, we can properly understand string literals:
 
 ```rust
 let s = "Hello, world!";
